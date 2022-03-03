@@ -1,0 +1,16 @@
+[
+  {
+    "id": 38239,
+    "name": "John",
+    "email": "john292@gmail.com",
+    "age": 23,
+    "city": "Delhi"
+  },
+  {
+    "id": 92872,
+    "name": "Mosh",
+    "email": "mosh123@gmail.com",
+    "age": 60,
+    "city": "Mumbai"
+  }
+]

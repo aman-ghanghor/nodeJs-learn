@@ -1,0 +1,12 @@
+{
+  "name": "04-path_module",
+  "version": "1.0.0",
+  "description": "The path module provides utilities for working with file and directory paths. It can be accessed using:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

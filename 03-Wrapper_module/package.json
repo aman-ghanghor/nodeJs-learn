@@ -1,0 +1,11 @@
+{
+  "name": "03-wrapper_module",
+  "version": "1.0.0",
+  "description": "(function(exports, require, module, __filename, __dirname) {\r     // Module code actually lives in here\r }) ;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

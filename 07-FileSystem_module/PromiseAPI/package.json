@@ -1,0 +1,12 @@
+{
+  "name": "promiseapi",
+  "version": "1.0.0",
+  "description": "(1) :: Promise Based API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
